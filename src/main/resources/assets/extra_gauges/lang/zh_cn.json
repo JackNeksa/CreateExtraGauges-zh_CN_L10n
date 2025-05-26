@@ -14,7 +14,7 @@
   "create.logic_gauge.gate.nand": "与非门（输入有假输出真）",
   "create.logic_gauge.gate.xor": "异或门（输入有奇数个真输出真）",
   "create.logic_gauge.gate.xnor": "同或门（输入有偶数个真输出真）",
-  "create.gui.logic_gauge.title": "连接",
+  "create.gui.logic_gauge.title": "连接设置",
   "create.gui.logic_gauge.save_and_close": "保存并关闭",
   "create.gui.logic_gauge.reset": "重置所有设置",
   "create.gui.logic_gauge.connect_input": "添加新的输入连接",
