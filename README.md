@@ -3,6 +3,7 @@
 </p>
 
 **This mod adds new custom gauges to create mod, like the factory gauge, but with different functions**
+**This forked repositorie is for making Simplified Chinese Translation for the original mod.**
 
 It also adds a custom API which allows mod developers to make their own gauges
 (See more in the [Wiki](https://github.com/LIUKRAST/CreateExtraGauges/wiki)).
